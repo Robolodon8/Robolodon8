@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Robolodon8.
+- 👀 I’m interested in coding and game development.
+- 🌱 I’m currently learning how to use GMsstudio and C#.
